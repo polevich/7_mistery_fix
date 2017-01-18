@@ -1,6 +1,7 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+That code make magic happen. There is just one function here, which get 3 variables (a,b,c) for the purposes of solving quadratic 
+equation like: a^2x+bx+c=0
 
 # Project Goals
 
